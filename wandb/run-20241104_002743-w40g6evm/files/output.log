@@ -1,0 +1,136 @@
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+Failed to download (trying next):
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz to ./data\MNIST\raw\train-images-idx3-ubyte.gz
+100%|█| 9912422/9912422 [00:02<00:00, 3369
+Extracting ./data\MNIST\raw\train-images-idx3-ubyte.gz to ./data\MNIST\raw
+
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+Failed to download (trying next):
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz to ./data\MNIST\raw\train-labels-idx1-ubyte.gz
+100%|██████████████████| 28881/28881 [00:00<00:00, 631777.18it/s]
+Extracting ./data\MNIST\raw\train-labels-idx1-ubyte.gz to ./data\MNIST\raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+Failed to download (trying next):
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz to ./data\MNIST\raw\t10k-images-idx3-ubyte.gz
+100%|█████████████| 1648877/1648877 [00:00<00:00, 5451408.63it/s]
+Extracting ./data\MNIST\raw\t10k-images-idx3-ubyte.gz to ./data\MNIST\raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+Failed to download (trying next):
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz to ./data\MNIST\raw\t10k-labels-idx1-ubyte.gz
+100%|███████████████████| 4542/4542 [00:00<00:00, 3247064.73it/s]
+Extracting ./data\MNIST\raw\t10k-labels-idx1-ubyte.gz to ./data\MNIST\raw
+
+Epoch 1/10 | Batch 0/938 | Loss: 2.3260152339935303
+Epoch 1/10 | Batch 100/938 | Loss: 0.5427333116531372
+Epoch 1/10 | Batch 200/938 | Loss: 0.35984915494918823
+Epoch 1/10 | Batch 300/938 | Loss: 0.7697986960411072
+Epoch 1/10 | Batch 400/938 | Loss: 0.6485314965248108
+Epoch 1/10 | Batch 500/938 | Loss: 0.33311349153518677
+Epoch 1/10 | Batch 600/938 | Loss: 0.6797634959220886
+Epoch 1/10 | Batch 700/938 | Loss: 0.4555315673351288
+Epoch 1/10 | Batch 800/938 | Loss: 0.3957347571849823
+Epoch 1/10 | Batch 900/938 | Loss: 0.26645007729530334
+Epoch 2/10 | Batch 0/938 | Loss: 0.34527942538261414
+Epoch 2/10 | Batch 100/938 | Loss: 0.14901728928089142
+Epoch 2/10 | Batch 200/938 | Loss: 0.19280582666397095
+Epoch 2/10 | Batch 300/938 | Loss: 0.3599415421485901
+Epoch 2/10 | Batch 400/938 | Loss: 0.5423101186752319
+Epoch 2/10 | Batch 500/938 | Loss: 0.11633352190256119
+Epoch 2/10 | Batch 600/938 | Loss: 0.23958738148212433
+Epoch 2/10 | Batch 700/938 | Loss: 0.13397787511348724
+Epoch 2/10 | Batch 800/938 | Loss: 0.2022104114294052
+Epoch 2/10 | Batch 900/938 | Loss: 1.007735013961792
+Epoch 3/10 | Batch 0/938 | Loss: 0.31835833191871643
+Epoch 3/10 | Batch 100/938 | Loss: 0.3073265552520752
+Epoch 3/10 | Batch 200/938 | Loss: 0.2295289933681488
+Epoch 3/10 | Batch 300/938 | Loss: 0.3401520848274231
+Epoch 3/10 | Batch 400/938 | Loss: 0.39378228783607483
+Epoch 3/10 | Batch 500/938 | Loss: 0.358856201171875
+Epoch 3/10 | Batch 600/938 | Loss: 0.4035084843635559
+Epoch 3/10 | Batch 700/938 | Loss: 0.6010063886642456
+Epoch 3/10 | Batch 800/938 | Loss: 0.33294132351875305
+Epoch 3/10 | Batch 900/938 | Loss: 0.3806118369102478
+Epoch 4/10 | Batch 0/938 | Loss: 0.3461381494998932
+Epoch 4/10 | Batch 100/938 | Loss: 0.2370036095380783
+Epoch 4/10 | Batch 200/938 | Loss: 0.33799058198928833
+Epoch 4/10 | Batch 300/938 | Loss: 0.39254510402679443
+Epoch 4/10 | Batch 400/938 | Loss: 0.471078097820282
+Epoch 4/10 | Batch 500/938 | Loss: 0.21874278783798218
+Epoch 4/10 | Batch 600/938 | Loss: 0.15306946635246277
+Epoch 4/10 | Batch 700/938 | Loss: 0.29305359721183777
+Epoch 4/10 | Batch 800/938 | Loss: 0.25192439556121826
+Epoch 4/10 | Batch 900/938 | Loss: 0.3211263418197632
+Epoch 5/10 | Batch 0/938 | Loss: 0.23708811402320862
+Epoch 5/10 | Batch 100/938 | Loss: 0.23354433476924896
+Epoch 5/10 | Batch 200/938 | Loss: 0.48516640067100525
+Epoch 5/10 | Batch 300/938 | Loss: 0.13493633270263672
+Epoch 5/10 | Batch 400/938 | Loss: 0.41473400592803955
+Epoch 5/10 | Batch 500/938 | Loss: 0.37327319383621216
+Epoch 5/10 | Batch 600/938 | Loss: 0.42878228425979614
+Epoch 5/10 | Batch 700/938 | Loss: 0.382530152797699
+Epoch 5/10 | Batch 800/938 | Loss: 0.49312153458595276
+Epoch 5/10 | Batch 900/938 | Loss: 0.454368531703949
+Epoch 6/10 | Batch 0/938 | Loss: 0.27816715836524963
+Epoch 6/10 | Batch 100/938 | Loss: 0.19329014420509338
+Epoch 6/10 | Batch 200/938 | Loss: 0.5373679399490356
+Epoch 6/10 | Batch 300/938 | Loss: 0.6457352638244629
+Epoch 6/10 | Batch 400/938 | Loss: 0.2557068169116974
+Epoch 6/10 | Batch 500/938 | Loss: 0.13249139487743378
+Epoch 6/10 | Batch 600/938 | Loss: 0.4519345462322235
+Epoch 6/10 | Batch 700/938 | Loss: 0.17254680395126343
+Epoch 6/10 | Batch 800/938 | Loss: 0.33473044633865356
+Epoch 6/10 | Batch 900/938 | Loss: 0.11432313919067383
+Epoch 7/10 | Batch 0/938 | Loss: 0.300546795129776
+Epoch 7/10 | Batch 100/938 | Loss: 0.10294696688652039
+Epoch 7/10 | Batch 200/938 | Loss: 0.3096143901348114
+Epoch 7/10 | Batch 300/938 | Loss: 0.3723871409893036
+Epoch 7/10 | Batch 400/938 | Loss: 0.129783034324646
+Epoch 7/10 | Batch 500/938 | Loss: 0.340080589056015
+Epoch 7/10 | Batch 600/938 | Loss: 0.07259222120046616
+Epoch 7/10 | Batch 700/938 | Loss: 0.4915273189544678
+Epoch 7/10 | Batch 800/938 | Loss: 0.19649331271648407
+Epoch 7/10 | Batch 900/938 | Loss: 0.2587900757789612
+Epoch 8/10 | Batch 0/938 | Loss: 0.11981607228517532
+Epoch 8/10 | Batch 100/938 | Loss: 0.25765523314476013
+Epoch 8/10 | Batch 200/938 | Loss: 0.179011270403862
+Epoch 8/10 | Batch 300/938 | Loss: 0.3432813882827759
+Epoch 8/10 | Batch 400/938 | Loss: 0.13400894403457642
+Epoch 8/10 | Batch 500/938 | Loss: 0.261157363653183
+Epoch 8/10 | Batch 600/938 | Loss: 0.237020343542099
+Epoch 8/10 | Batch 700/938 | Loss: 0.13790474832057953
+Epoch 8/10 | Batch 800/938 | Loss: 0.23631469905376434
+Epoch 8/10 | Batch 900/938 | Loss: 0.2587267756462097
+Epoch 9/10 | Batch 0/938 | Loss: 0.16553401947021484
+Epoch 9/10 | Batch 100/938 | Loss: 0.13488906621932983
+Epoch 9/10 | Batch 200/938 | Loss: 0.6265069842338562
+Epoch 9/10 | Batch 300/938 | Loss: 0.35781416296958923
+Epoch 9/10 | Batch 400/938 | Loss: 0.16849762201309204
+Epoch 9/10 | Batch 500/938 | Loss: 0.27232348918914795
+Epoch 9/10 | Batch 600/938 | Loss: 0.18196919560432434
+Epoch 9/10 | Batch 700/938 | Loss: 0.8199763298034668
+Epoch 9/10 | Batch 800/938 | Loss: 0.45588430762290955
+Epoch 9/10 | Batch 900/938 | Loss: 0.3143016993999481
+Epoch 10/10 | Batch 0/938 | Loss: 0.28574785590171814
+Epoch 10/10 | Batch 100/938 | Loss: 0.24304348230361938
+Epoch 10/10 | Batch 200/938 | Loss: 0.11670328676700592
+Epoch 10/10 | Batch 300/938 | Loss: 0.4280708432197571
+Epoch 10/10 | Batch 400/938 | Loss: 0.3640384376049042
+Epoch 10/10 | Batch 500/938 | Loss: 0.43476733565330505
+Epoch 10/10 | Batch 600/938 | Loss: 0.21157358586788177
+Epoch 10/10 | Batch 700/938 | Loss: 0.45886126160621643
+Epoch 10/10 | Batch 800/938 | Loss: 0.457358717918396
+Epoch 10/10 | Batch 900/938 | Loss: 0.1814011037349701

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+nest_asyncio
+Pillow
+wandb
+scikit-learn
+python-multipart
